@@ -10,7 +10,7 @@ public class FindMax {
         if (num3.compareTo(maxInt) > 0) {
             maxInt = num3;
         }
-        System.out.println(maxInt + " is the maximum  number.");
+        System.out.println(maxInt + " is the maximum  ");
     }
 }
 
