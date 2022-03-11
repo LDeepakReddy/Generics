@@ -14,6 +14,5 @@ public class ArrayPrint<T> {
         Double doubleArray[] = {1.5, 2.0, 3.6, 4.8, 5.9};
         ArrayPrint.toPrint(doubleArray);
 
-
     }
 }
