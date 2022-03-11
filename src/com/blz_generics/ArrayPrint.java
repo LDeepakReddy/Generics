@@ -47,7 +47,5 @@ public class ArrayPrint {
         Character charArray[] = {'a', 'b', 'c', 'd'};
         ArrayPrint printCharArray = new ArrayPrint((charArray));
         printCharArray.toPrint(printCharArray.charArray);
-
-
     }
 }
